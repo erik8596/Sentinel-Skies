@@ -3,4 +3,3 @@
 ## The game can be launched for both MacOS and Windows 10 (or newer).
 ### For MacOS: 
 ### For Windows:
-# Sentinel-Skies
