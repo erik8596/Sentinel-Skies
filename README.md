@@ -4,6 +4,23 @@
 
 Sentinel Skies is a tower-defense game in which players place and upgrade defensive turrets to stop successive waves of enemies from reaching the end of a path. The project explores gameplay systems in Unity, including 2D physics, enemy spawning and movement, resource management, upgrades, menus, and level progression.
 
+
+## Gameplay Preview
+
+### Tower Defense Gameplay
+
+![Sentinel Skies gameplay with enemies, placed turrets, tower store, wave counter, and remaining lives](screenshots/sentinel-skies-gameplay-example.png)
+
+*An active level with incoming enemies, defensive turrets, tower purchasing options, and wave/life tracking.*
+
+### Main Menu and Settings
+
+| Main Menu | Settings |
+| :---: | :---: |
+| ![Sentinel Skies main menu with tutorial, new game, load game, settings, and leaderboard options](screenshots/sentinel-skies-main-menu.png) | ![Sentinel Skies settings menu with volume, graphics, resolution, fullscreen, and grayscale controls](screenshots/sentinel-skies-settings-menu.png) |
+
+*The game also includes navigation menus and configurable audio, visual, and display settings.*
+
 > **Repository contents:** This repository provides C# gameplay scripts and a packaged **macOS** application. It does **not** include a complete Unity Editor project (such as the original `Assets/`, scenes, and `ProjectSettings/` folders), so the source code alone is not sufficient to rebuild the game in Unity.
 
 ## Gameplay Features
