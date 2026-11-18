@@ -1,0 +1,3 @@
+# The bundled macOS Unity application is a compiled third-party runtime.
+# Preserve it for downloads, but exclude it from GitHub language statistics.
+Executables/** linguist-vendored
